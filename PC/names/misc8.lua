@@ -108,3 +108,4 @@ n["@TetsuNoKirai"] = {"TetsuNoKirai", "|c9200f0T|r|c9c00e1e|r|ca600d1t|r|cb000c2
 n["@Mittrik"] = {"Mittrik", "|c8c9396M|r|c70797dittrik|r"}
 n["@El_Prezz"] = {"El_Prezz", "|cff2910E|r|cff4514l|r|cff6018_|r|cff7b1cP|r|cff961fr|r|cffb223e|r|cffcd27z|r|cffe82bz|r"}
 n["@NeSatoshi"] = {"NeSatoshi", "|cff57f8N|r|cff6cf9e|r|cff81faS|r|cff96fba|r|cffabfbt|r|cffc0fco|r|cffd5fds|r|cffeafeh|r|cffffffi|r"}
+n["@Silmaxa"] = {"BBL hunter", "|ce72649B|r|cce2860B|r|cb62a76L|r|c9e2c8dh|r|c852fa4u|r|c6d31bbn|r|c5533d1t|r|c3c35e8e|r|c2437ffr|r"}
