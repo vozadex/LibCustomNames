@@ -113,6 +113,6 @@ n["@drawsheichou"] = {"drawsheichou", "|c5c88fed|r|c6882fdr|r|c757bfca|r|c8174fc
 n["@mak1racle"] = {"mak1racle", "|c2916ffm|r|c3f14ffa|r|c5412ffk|r|c6910ff1|r|c7f0dffr|r|c940bffa|r|ca909ffc|r|cbf07ffl|r|cd405ffe|r"}
 n["@duvvel"] = {"duvvel", "|cff3100d|r|cff5000u|r|cff7000v|r|cff8f00v|r|cffae00e|r|cffcd00l|r"}
 n["@lil-stinkyy"] = {"lil-stinkyy", "|ca164ffl|r|ca36affi|r|ca66fffl|r|ca974ff-|r|cac79ffs|r|cae7ffft|r|cb184ffi|r|cb489ffn|r|cb78effk|r|cb994ffy|r|cbc99ffy|r"}
-n["@ALL4VET"] = {"ALL4VET", "|cc317e2A|r|ccd2ee6L|r|cd745eaL|r|ce15dee4|r|ceb74f2V|r|cf58bf6E|r|cffa2faT|r"}
+n["@IMPXRIVM"] = {"IMPXRIVM", "|cf57fd2I|r|cea82d9M|r|ce085dfP|r|cd688e6X|r|ccb8aecR|r|cc18df2I|r|cb690f9V|r|cac93ffM|r"}
 n["@Adoring"] = {"Adoring", "|cfff0a1A|r|cffe6add|r|cffdcbao|r|cffd2c6r|r|cffc8d3i|r|cffbedfn|r|cffb4ecg|r"}
 n["@ArhonFiresoul"] = {"Arhon Firesoul", "|cb10000Arhon Firesoul|r"}
