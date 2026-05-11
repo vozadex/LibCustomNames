@@ -118,3 +118,4 @@ n["@Adoring"] = {"Adoring", "|cfff0a1A|r|cffe6add|r|cffdcbao|r|cffd2c6r|r|cffc8d
 n["@ArhonFiresoul"] = {"Arhon Firesoul", "|cb10000Arhon Firesoul|r"}
 n["@MichaelOfPie"] = {"MichaelOfPie", "|cff952cM|r|cff9e31i|r|cffa635c|r|cffaf39h|r|cffb73da|r|cffc042e|r|cffc846l|r|cffd04aO|r|cffd94ef|r|cffe153P|r|cffea57i|r|cfff25be|r"}
 n["@GoridoTF2"] = {"Gorido", "|cff4bb1G|r|cff4fbdo|r|cff53c9r|r|cff57d5i|r|cff5be1d|r|cff5fedo|r"}
+n["@Alatariel301183"] = {"Alatariel", "|cffb300A|r|cff8e00l|r|cff7b00a|r|cff4400t|r|cff1f00a|r|cff4400r|r|cff7b00i|r|cff8e00e|r|cffb300l|r"}
