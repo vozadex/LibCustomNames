@@ -116,4 +116,5 @@ n["@lil-stinkyy"] = {"lil-stinkyy", "|ca164ffl|r|ca36affi|r|ca66fffl|r|ca974ff-|
 n["@IMPXRIVM"] = {"IMPXRIVM", "|cf57fd2I|r|cea82d9M|r|ce085dfP|r|cd688e6X|r|ccb8aecR|r|cc18df2I|r|cb690f9V|r|cac93ffM|r"}
 n["@Adoring"] = {"Adoring", "|cfff0a1A|r|cffe6add|r|cffdcbao|r|cffd2c6r|r|cffc8d3i|r|cffbedfn|r|cffb4ecg|r"}
 n["@ArhonFiresoul"] = {"Arhon Firesoul", "|cb10000Arhon Firesoul|r"}
-n["@MichaelOfPie"] = {"MichaelOfPie", "|cff952cM|r|cff9e31i|r|cffa635c|r|cffaf39h|r|cffb73da|r|cffc042e|r|cffc846l|r|cffd04aO|r|cffd94ef|r|cffe153P|r|cffea57i|r|cfff25be|r"}n["@GoridoTF2"] = {"Gorido", "|cff4bb1G|r|cff4fbdo|r|cff53c9r|r|cff57d5i|r|cff5be1d|r|cff5fedo|r"}
+n["@MichaelOfPie"] = {"MichaelOfPie", "|cff952cM|r|cff9e31i|r|cffa635c|r|cffaf39h|r|cffb73da|r|cffc042e|r|cffc846l|r|cffd04aO|r|cffd94ef|r|cffe153P|r|cffea57i|r|cfff25be|r"}
+n["@GoridoTF2"] = {"Gorido", "|cff4bb1G|r|cff4fbdo|r|cff53c9r|r|cff57d5i|r|cff5be1d|r|cff5fedo|r"}
